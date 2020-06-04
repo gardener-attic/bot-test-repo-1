@@ -7,7 +7,7 @@ labels: kind/bug
 
 ## Which cluster is affected?
 
-`Cluster (Details) Dashboard Link`: URL
+`Cluster Details Dashboard Link`: URL
 
 ## What happened?
 
