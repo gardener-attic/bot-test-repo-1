@@ -9,11 +9,11 @@ labels: kind/bug
 
 ## What you expected to happen?
 
-## How would we reproduce it (as concisely and precisely as possible)?
+## How would we reproduce it (concisely and precisely)?
 
 ## Anything else we need to know?
 
-## Help us categorise this issue for faster resolution
+## Help us categorise this issue for faster resolution:
 
 <!-- First word is category, all consecutive words narrow it down. -->
 <!-- Please delete every word that doesn't fit here/from your PoV. -->
