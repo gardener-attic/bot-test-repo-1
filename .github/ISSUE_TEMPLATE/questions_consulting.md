@@ -5,7 +5,7 @@ labels: kind/question
 
 ---
 
-Please, do not ask questions or ask for consulting here.
+Please, do not ask questions or expect consulting here.
 
 This repo is only for general landscape or cluster issues.
 
