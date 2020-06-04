@@ -9,7 +9,11 @@ Please, DO NOT ask questions or request support here.
 
 This repo is only for general landscape or cluster issues.
 
-You can ask your questions on Slack #sap-tech-gardener-canary:
+You can discuss general questions on Slack #sap-tech-gardener:
+
+https://sap-cp.slack.com/archives/C9CEBQPGE
+
+You can ask landspace-specific questions on Slack #sap-tech-gardener-canary:
 
 https://sap-ti.slack.com/archives/CBV3JS9S4
 
