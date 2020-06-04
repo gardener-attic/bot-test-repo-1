@@ -7,26 +7,19 @@ labels: kind/bug
 
 **Which cluster is affected**:
 
-  - Dashboard URL
-  - Description
-  - When the problem started in UTC or hours, e.g. 2018-11-01T15:00:00Z or 3h
-  - Priority (inform about pager duty for blocker issues and that people may be woken up behind the scene)
-
-**Shoot:** [garden-berlin/backup](https://dashboard.garden.canary.k8s.ondemand.com/namespace/garden-berlin/shoots/backup)
-**Kind:** gcp / europe-west1
-**Seed:** [gcp-eu1](https://dashboard.garden.canary.k8s.ondemand.com/namespace/garden/shoots/gcp-eu1)
-**Created At:** 2020-06-02
-**Last Operation:** ` Flow "Shoot cluster deletion" encountered task errors: [task "Waiting until Shoot control plane has been reconciled" failed: Error while waiting for ControlPlane shoot--berlin--backup/backup to become ready: extension encountered error during reconciliation: Error deleting controlplane: error while waiting for managed resource containing shoot chart for controlplane 'shoot--berlin--backup/backup' to be deleted: timed out waiting for the condition] Operation will be retried. `
-**Last Errors:** ` task "Waiting until Shoot control plane has been reconciled" failed: Error while waiting for ControlPlane shoot--berlin--backup/backup to become ready: extension encountered error during reconciliation: Error deleting controlplane: error while waiting for managed resource containing shoot chart for controlplane 'shoot--berlin--backup/backup' to be deleted: timed out waiting for the condition `
-**APIServerAvailable:** ` API server /healthz endpoint responded with success status code. [response_time:2ms] `
-**ControlPlaneHealthy:** ` Missing required deployments: [cluster-autoscaler] `
-**EveryNodeReady:** ` Not enough worker nodes registered in worker pool 'worker-g3w1r' to meet minimum desired machine count. (0/1). `
-**SystemComponentsHealthy:** ` Missing required deployments: [coredns metrics-server vpn-shoot] `
-
+`Project`:   PROJECT-NAME
+`Cluster`:   CLUSTER-NAME
+`Link`:      DASHBOARD-URL
 
 **What happened**:
 
 **What you expected to happen**:
+
+**When did it happen or started to happen**:
+
+<!-- Please provide start time in UTC OR relative time in hours from now, so that we can pull the proper logs. -->
+`Absolute`: <!-- e.g. 2029-01-01T15:00:00Z -->
+`Relative`: <!-- e.g. 3h -->
 
 **How to reproduce it (as concisely and precisely as possible)**:
 
