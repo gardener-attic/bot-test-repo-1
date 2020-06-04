@@ -5,7 +5,7 @@ labels: kind/question
 
 ---
 
-Please, DO NOT suggest or request enhancements here.
+Please, DO NOT ask questions or request support here.
 
 This repo is only for general landscape or cluster issues.
 
